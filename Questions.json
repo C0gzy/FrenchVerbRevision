@@ -1,0 +1,22 @@
+{
+"eu" : {"Questions" : ["What is the past particple for avoir - to have"]},
+"bu" : {"Questions" : ["What is the past particple for boire - to drink"]},
+"pu" : {"Questions" : ["What is the past particple for pouvoir - to be able to"]},
+"su" : {"Questions" : ["What is the past particple for savoir - to know(info)"]},
+"mis": {"Questions" : ["What is the past particple for mettre - to put"]},
+"pris" :{"Questions" : ["What is the past particple for prendre - to take"]},
+"connu" :{"Questions" : ["What is the past particple for connaître - to know(person/place)"]},
+"vu" :{"Questions" : ["What is the past particple for voir - to see"]},
+"écrit" :{"Questions" : ["What is the past particple for écrire - to write"]},
+"dû" :{"Questions" : ["What is the past particple for devoir - to have to"]},
+"voulu" :{"Questions" : ["What is the past particple for vouloir - to want"]},
+"fait" :{"Questions" : ["What is the past particple for faire - to do/make"]},
+"lu" :{"Questions" : ["What is the past particple for lire - to read"]},
+"dormi" :{"Questions" : ["What is the past particple for dormir - to sleep"]},
+"ouvert" :{"Questions" : ["What is the past particple for ouvrir - to open"]},
+"plu" :{"Questions" : ["What is the past particple for pleuvoir - to rain"]},
+"ri" : {"Questions" : ["What is the past particple for rire - to laugh"]},
+"été" : {
+	"Questions" : ["What is the past particple for être - to be"]
+}
+}
